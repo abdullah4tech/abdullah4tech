@@ -56,18 +56,11 @@
 
 
 ### Connect with me via:
-<p align="center">
-  <a target="_blank"
-    href="linkedin.com/in/abdullah-mustapha-ab529229a
-"><img
-    src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a>
- <a target="_blank"
-    href="https://twitter.com/CodeByAbdullah"><img
-    src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-  <a target="_blank"
-    href="mailto:abdullahmu4life@gmail.com"><img
-    src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-  <a target="_blank"
-    href="https://wa.me/message/JU7M7LRRGDFGM1"><img
-    src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/abdullah-mustapha-ab529229a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/CodeByAbdullah"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/_am4tech/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://wa.me/message/JU7M7LRRGDFGM1"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/></a>
+
 </p>
