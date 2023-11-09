@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **RDBMS and DBMS**, and diving deep into **Data Structures and Algorithms**.
 
-- 👯 I’m looking to collaborate on **Open Source Projects**.
+- 👯 I’m looking to collaborate on an **Open Source Project...**
 
 - 📫 How to reach me: **abdullahmu4life@gmail.com**.
 
