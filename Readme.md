@@ -40,13 +40,13 @@
 ![Linux](https://icongr.am/devicon/linux-original.svg?size=50&color=000000)
 
 
+## 📊 My Github Stats
+
 <p align="center">
     <a href="https://github.com/abdullahCoder-Tech/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="tayyibGbondo" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahCoder-Tech&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/abdullahCoder-Tech/github-readme-stats"><img alt="abdullahCoder-Tech Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdullahCoder-Tech&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -65,3 +65,14 @@
 <a href = "https://wa.me/message/JU7M7LRRGDFGM1"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/></a>
 
 </p>
+
+## 
+```python
+from Awesome import abdullah
+
+languages = ["C++", "Python", "C", "HTML"]
+frameworks = ["QT", "Tkinter", "Pyside", "STL"]
+databases = ["Microsoft Sql Server", "MySql", "Oracle"]
+
+abdullah.skills.extend(languages + frameworks + databases)
+```
