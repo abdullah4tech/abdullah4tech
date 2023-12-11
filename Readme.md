@@ -11,8 +11,8 @@
 
 - 👯 I’m looking to collaborate on an **Open Source Project...**
 
-- 📫 How to reach me: **abdullahmu4life@gmail.com**.
-
+- 📫 How to reach me: **abdullahmu4life@gmail.com**
+ - **Whatsapp:** +23231353914.
 - ⚡ Fun fact: **I watch anime, play video games, and I'm passionate about becoming a programmer.**
 
  
@@ -40,7 +40,7 @@
 ![Linux](https://icongr.am/devicon/linux-original.svg?size=50&color=000000)
 
 
-## 📊 My Github Stats
+<h3>📊 My Github Stats<h3><hr>
 
 <p align="center">
     <a href="https://github.com/abdullahCoder-Tech/github-readme-streak-stats">
@@ -66,7 +66,9 @@
 
 </p>
 
-## 
+<h3>My Awesome Code Repository</h3><hr>
+
+
 ```python
 from Awesome import abdullah
 
@@ -76,3 +78,5 @@ databases = ["Microsoft Sql Server", "MySql", "Oracle"]
 
 abdullah.skills.extend(languages + frameworks + databases)
 ```
+
+<hr>
