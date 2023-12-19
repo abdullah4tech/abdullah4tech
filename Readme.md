@@ -43,17 +43,18 @@
 <h3>📊 My Github Stats<h3><hr>
 
 <p align="center">
-    <a href="https://github.com/abdullahCoder-Tech/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="tayyibGbondo" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahCoder-Tech&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    <h2 align="center">My Github Stats</h2>
+
+|My github statistics|My languages|Streaks|
+|-|-|-|
+|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=abdullahCoder-Tech&show_icons=true&theme=dark&hide_title=true)](https://github.com/abdullahCoder-Tech)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahCoder-Tech&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/abdullahCoder-Tech)|![Cyebukayire](https://github-readme-streak-stats.herokuapp.com/?user=abdullahCoder-Tech&theme=dark)
+<hr>
 </p>
 
-  <br/>
-    <a href="https://github.com/abdullahCoder-Tech/github-readme-stats"><img alt="abdullahCoder-Tech Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdullahCoder-Tech&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/abdullahCoder-Tech/github-readme-stats">
-    <img alt="abdullahCoder-Tech Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahCoder-Tech&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-    </a>
-  <br/>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{abdullahCoder-Tech}/count.svg" /></p> 
+<br></div><hr>
 
 
 ### Connect with me via:
@@ -66,7 +67,7 @@
 
 </p>
 
-<h3>My Awesome Code Repository</h3><hr>
+<hr>
 
 
 ```python
