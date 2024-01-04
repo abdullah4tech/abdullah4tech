@@ -42,14 +42,13 @@
 
 <h3>📊 My Github Stats<h3><hr>
 
-<p align="center">
-    <h2 align="center">My Github Stats</h2>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahCoder-Tech&" alt="abdullahCoder-Tech" /></p>
 
-|My github statistics|My languages|Streaks|
-|-|-|-|
-|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=abdullahCoder-Tech&show_icons=true&theme=dark&hide_title=true)](https://github.com/abdullahCoder-Tech)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahCoder-Tech&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/abdullahCoder-Tech)|![Cyebukayire](https://github-readme-streak-stats.herokuapp.com/?user=abdullahCoder-Tech&theme=dark)
-<hr>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahCoder-Tech&show_icons=true&locale=en&layout=compact" alt="abdullahCoder-Tech" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahCoder-Tech&show_icons=true&locale=en" alt="abdullahCoder-Tech" /></p>
+
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
