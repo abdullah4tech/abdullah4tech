@@ -42,18 +42,30 @@
 
 <h3>📊 My Github Stats<h3><hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahCoder-Tech&" alt="abdullahCoder-Tech" /></p>
+<p align="center">
+  <a href="https://github.com/abdullahCoder-Tech">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahCoder-Tech&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahCoder-Tech&show_icons=true&locale=en&layout=compact" alt="abdullahCoder-Tech" /></p>
+<p align="center">
+  <a href="https://github.com/abdullahCoder-Tech">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahCoder-Tech&theme=radical" alt="Abdullah Mustapha's GitHub Contribution"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahCoder-Tech&show_icons=true&locale=en" alt="abdullahCoder-Tech" /></p>
+<a> 
+    <a href="https://github.com/abdullahCoder-Tech"><img alt="Abdullah Mustapha's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abdullahCoder-Tech&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/abdullahCoder-Tech"><img alt="Abdullah Mustapha's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abdullahCoder-Tech&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+![Abdullah Mustapha's Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullahCoder-Tech&custom_title=Abdullah%20Mustapha's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{abdullahCoder-Tech}/count.svg" /></p> 
-<br></div><hr>
+<hr>
 
 
 ### Connect with me via:
