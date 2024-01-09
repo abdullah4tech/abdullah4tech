@@ -25,6 +25,7 @@
 ![MySql](https://icongr.am/simple/mysql.svg?size=50&color=282367&colored=)
 ![SQL-Server](https://icongr.am/simple/microsoftsqlserver.svg?size=50&color=282367&colored=)
 ![JavaScript](https://icongr.am/simple/javascript.svg?size=50&color=282367&colored=)
+
 ### Applications. 💻
 ![illustrator](https://icongr.am/devicon/illustrator-plain.svg?size=50&color=824217)
 ![Windows](https://icongr.am/devicon/windows8-original.svg?size=50&color=824217)
