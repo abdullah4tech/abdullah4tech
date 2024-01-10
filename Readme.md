@@ -25,6 +25,8 @@
 ![MySql](https://icongr.am/simple/mysql.svg?size=50&color=282367&colored=)
 ![SQL-Server](https://icongr.am/simple/microsoftsqlserver.svg?size=50&color=282367&colored=)
 ![JavaScript](https://icongr.am/simple/javascript.svg?size=50&color=282367&colored=)
+![Vue.js](https://icongr.am/simple/vuejs.svg?size=50&color=49925c&colored=false)
+![Tailwind](https://icongr.am/simple/tailwindcss.svg?size=50&color=4b92aa&colored=false)
 
 ### Applications. 💻
 ![illustrator](https://icongr.am/devicon/illustrator-plain.svg?size=50&color=824217)
@@ -45,7 +47,7 @@
 
 <p align="center">
   <a href="https://github.com/abdullahCoder-Tech">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahCoder-Tech&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahCoder-Tech&theme=radical&border=7F3FBF&background=0D1117" alt="Abdullah's GitHub streak"/>
   </a>
 </p>
 
