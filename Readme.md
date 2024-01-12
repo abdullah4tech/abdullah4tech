@@ -15,7 +15,6 @@
  - **Whatsapp:** +23231353914.
 - ⚡ Fun fact: **I watch anime, play video games, and I'm passionate about becoming a programmer.**
 
- 
 ### Languages & Frameworks. 🚧 
 
 ![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)
@@ -41,7 +40,6 @@
 ![Git](https://icongr.am/devicon/git-original.svg?size=50&color=currentColor)
 ![GitHub](https://icongr.am/devicon/github-original.svg?size=50&color=currentColor)
 ![Linux](https://icongr.am/devicon/linux-original.svg?size=50&color=000000)
-
 
 <h3>📊 My Github Stats<h3><hr>
 
