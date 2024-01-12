@@ -7,13 +7,14 @@
 
 - 🔭 I’m currently working on **[Animal Donation](https://abdullahcoder-tech.free.nf/)**
 
-- 🌱 I’m currently learning **RDBMS and DBMS**, and diving deep into **Data Structures and Algorithms**.
+- 🌱 I’m currently learning **Web development and there technologies**, and diving deep into **Data Structures and Algorithms**.
 
 - 👯 I’m looking to collaborate on an **Open Source Project...**
 
 - 📫 How to reach me: **abdullahmu4life@gmail.com**
  - **Whatsapp:** +23231353914.
 - ⚡ Fun fact: **I watch anime, play video games, and I'm passionate about becoming a programmer.**
+- Never give up on coding!!!
 
 ### Languages & Frameworks. 🚧 
 
