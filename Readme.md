@@ -18,15 +18,7 @@
 
 ### Languages & Frameworks. 🚧 
 
-![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)
-![C++](https://icongr.am/devicon/cplusplus-plain.svg?size=50&color=3c6ebe)
-![C](https://icongr.am/devicon/c-original.svg?size=50&color=3c6ebe)
-![HTML](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
-![MySql](https://icongr.am/simple/mysql.svg?size=50&color=282367&colored=)
-![SQL-Server](https://icongr.am/simple/microsoftsqlserver.svg?size=50&color=282367&colored=)
-![JavaScript](https://icongr.am/simple/javascript.svg?size=50&color=282367&colored=)
-![Vue.js](https://icongr.am/simple/vuejs.svg?size=50&color=49925c&colored=false)
-![Tailwind](https://icongr.am/simple/tailwindcss.svg?size=50&color=4b92aa&colored=false)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,c,cpp,js,vuejs,python,nodejs,md,git,github,vscode,mysql,postman,stackoverflow&perline=13)](#)
 
 ### Applications. 💻
 ![illustrator](https://icongr.am/devicon/illustrator-plain.svg?size=50&color=824217)
