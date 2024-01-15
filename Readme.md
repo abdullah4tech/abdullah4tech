@@ -16,23 +16,9 @@
 - ⚡ Fun fact: **I watch anime, play video games, and I'm passionate about becoming a programmer.**
 - Never give up on coding!!!
 
-### Languages & Frameworks. 🚧 
+### Languages & Tools. 🚧 
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,c,cpp,js,vuejs,python,nodejs,md,git,github,vscode,mysql,postman,stackoverflow&perline=13)](#)
-
-### Applications. 💻
-![illustrator](https://icongr.am/devicon/illustrator-plain.svg?size=50&color=824217)
-![Windows](https://icongr.am/devicon/windows8-original.svg?size=50&color=824217)
-![Photoshop](https://icongr.am/devicon/photoshop-line.svg?size=50&colored=)
-![](https://icongr.am/simple/gitkraken.svg?size=50&color=282367&colored=)
-![](https://icongr.am/simple/gnubash.svg?size=50&color=282367&colored=)
-
-### Tools. 🛠 
-
-![Npm](https://icongr.am/devicon/npm-original-wordmark.svg?size=50&color=currentColor)
-![Git](https://icongr.am/devicon/git-original.svg?size=50&color=currentColor)
-![GitHub](https://icongr.am/devicon/github-original.svg?size=50&color=currentColor)
-![Linux](https://icongr.am/devicon/linux-original.svg?size=50&color=000000)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,c,cpp,js,vuejs,python,nodejs,md,git,github,photoshop,illustrator,linux,vscode,mysql,bash,postman,stackoverflow&perline=13)](#)
 
 <h3>📊 My Github Stats<h3><hr>
 
