@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Mustapha</h1>
-<h3 align="center">A Freelancer/Someftware Engineer.</h3>
+<h3 align="center">A Freelancer/Software Engineer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahCoder-Tech&label=Views&color=blue&style=plastic" alt="Abdullah Mustapha" /></p>
 
 ## 🙋‍♂️ About Me
