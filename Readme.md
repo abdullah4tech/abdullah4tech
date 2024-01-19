@@ -18,7 +18,7 @@
 
 ### Languages & Tools. 🚧 
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,c,cpp,js,vuejs,python,nodejs,md,git,github,photoshop,illustrator,linux,vscode,mysql,bash,postman,stackoverflow&perline=13)](#)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,c,cpp,js,vuejs,python,anaconda,nodejs,md,git,github,photoshop,illustrator,linux,vscode,mysql,bash,postman,stackoverflow&perline=13)](#)
 
 <h3>📊 My Github Stats<h3><hr>
 
