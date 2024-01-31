@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Mustapha</h1>
-<h4 align="center">I am currently a student at Manipal University Jaipur, India, immersed in the exciting realm of software engineering. My heart beats for technology and the fascinating world of cybersecurity. I would genuinely appreciate the chance to learn from seasoned programmers, and your guidance would mean a lot to me. On a delightful note, I also happen to be a freelancer.</h3>
+<h4 align="center">I am currently a student at Manipal University Jaipur, India, studying software engineering. My heart beats for technology and the fascinating world of cybersecurity. I would genuinely appreciate the chance to learn from seasoned programmers, and your guidance would mean a lot to me. On a delightful note, I also happen to be a freelancer.</h3>
 
 ## 🙋‍♂️ About Me
 <img align="right" alt="coding" width="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
