@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abdullah Mustapha</h1>
-<h3 align="center">A Freelancer/Software Engineer.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahCoder-Tech&label=Views&color=blue&style=plastic" alt="Abdullah Mustapha" /></p>
+<h4 align="center">I am currently a student at Manipal University Jaipur, India, immersed in the exciting realm of software engineering. My heart beats for technology and the fascinating world of cybersecurity. I would genuinely appreciate the chance to learn from seasoned programmers, and your guidance would mean a lot to me. On a delightful note, I also happen to be a freelancer.</h3>
 
 ## 🙋‍♂️ About Me
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-- 🔭 I’m currently working on **[Portfolio](https://abdullahcoder-tech.github.io/Portfolio/)**
+<img align="right" alt="coding" width="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🌱 I’m currently learning **Web development and there technologies**, and diving deep into **Data Structures and Algorithms**.
 
 - 👯 I’m looking to collaborate on an **Open Source Project...**
 
 - 📫 How to reach me: **abdullahmu4life@gmail.com**
- - **Whatsapp:** +23231353914.
 - ⚡ Fun fact: **I watch anime, play video games, and I'm passionate about becoming a programmer.**
 - Never give up on coding!!!
 
@@ -28,21 +24,11 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/abdullahCoder-Tech">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahCoder-Tech&theme=radical" alt="Abdullah Mustapha's GitHub Contribution"/>
-  </a>
-</p>
-
 <a> 
     <a href="https://github.com/abdullahCoder-Tech"><img alt="Abdullah Mustapha's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abdullahCoder-Tech&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/abdullahCoder-Tech"><img alt="Abdullah Mustapha's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abdullahCoder-Tech&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-
-
-![Abdullah Mustapha's Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullahCoder-Tech&custom_title=Abdullah%20Mustapha's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
 
 
 <hr>
@@ -72,3 +58,4 @@ abdullah.skills.extend(languages + frameworks + databases)
 ```
 
 <hr>
+👋Ó dàbọ̀
