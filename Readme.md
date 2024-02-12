@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Mustapha</h1>
-<h4 align="center">I am currently a student at Manipal University Jaipur, India, studying software engineering. My heart beats for technology and the fascinating world of cybersecurity. I would genuinely appreciate the chance to learn from seasoned programmers, and your guidance would mean a lot to me. On a delightful note, I also happen to be a freelancer.</h3>
+<h4 align="center">I am currently a student at Manipal University Jaipur, India, studying software engineering. My heart beats for technology and the fascinating world of cybersecurity. I would genuinely appreciate the chance to learn from seasoned programmers, and your guidance would mean a lot to me. On a delightful note, I also happen to be a freelancer.</h3>  
 
 ## 🙋‍♂️ About Me
 <img align="right" alt="coding" width="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -19,14 +19,14 @@
 <h3>📊 My Github Stats<h3><hr>
 
 <p align="center">
-  <a href="https://github.com/abdullahCoder-Tech">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahCoder-Tech&theme=radical&border=7F3FBF&background=0D1117" alt="Abdullah's GitHub streak"/>
+  <a href="https://github.com/abdullah4tech">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah4tech&theme=radical&border=7F3FBF&background=0D1117" alt="Abdullah's GitHub streak"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/abdullahCoder-Tech"><img alt="Abdullah Mustapha's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abdullahCoder-Tech&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/abdullahCoder-Tech"><img alt="Abdullah Mustapha's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abdullahCoder-Tech&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/abdullah4tech"><img alt="Abdullah Mustapha's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abdullah4tech&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/abdullah4tech"><img alt="Abdullah Mustapha's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abdullah4tech&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
