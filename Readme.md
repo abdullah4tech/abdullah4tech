@@ -38,7 +38,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/abdullah-mustapha-ab529229a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/CodeByAbdullah"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/abdullah4tech_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/_am4tech/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://wa.me/message/JU7M7LRRGDFGM1"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/></a>
 
