@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Mustapha</h1>
-<h4 align="center">I am currently a student at Manipal University Jaipur, India, studying software engineering. My heart beats for technology and the fascinating world of cybersecurity. I would genuinely appreciate the chance to learn from seasoned programmers, and your guidance would mean a lot to me. On a delightful note, I also happen to be a freelancer.</h3>  
+<h4 align="center">I am currently a student at Manipal University Jaipur, India, specializing in Software Engineering. With a fervent dedication to technology, I am deeply drawn to both frontend and backend development. I am eager to expand my skills and knowledge under the mentorship of seasoned developers. Your guidance would be immensely valuable to me as I strive to excel in this dynamic field. Additionally, I actively pursue freelance opportunities to further hone my abilities and contribute meaningfully to projects.</h3>  
 
 ## 🙋‍♂️ About Me
 <img align="right" alt="coding" width="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -47,14 +47,14 @@
 <hr>
 
 
-```python
-from Awesome import abdullah
+```javascript
+import abdullah from 'awesome';
 
-languages = ["C++", "Python", "C", "HTML"]
-frameworks = ["QT", "Tkinter", "Pyside", "STL"]
-databases = ["Microsoft Sql Server", "MySql", "Oracle"]
+let languages = ["HTML", "CSS", "JavaScript", "Python"];
+let frameworks = ["QT", "Vue.js", "axios", "tailwindcss"];
+let databases = ["Microsoft Sql Server", "MySql", "Oracle"];
 
-abdullah.skills.extend(languages + frameworks + databases)
+abdullah.skills.push(...languages, ...frameworks, ...databases);
 ```
 
 <hr>
