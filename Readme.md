@@ -2,6 +2,7 @@
 <h4 align="center">Frontend Developer</h3>  
 
 ## 🙋‍♂️ About Me
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdullah4tech&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <img align="right" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 - 🌱 I’m currently learning web development and its technologies, and also studying data structures and algorithms to improve readability and maintain consistency in my code..
@@ -50,9 +51,9 @@
 ```javascript
 import abdullah from 'awesome';
 
-let languages = ["HTML", "CSS", "JavaScript", "Python"];
+let languages = ["HTML", "CSS", "JavaScript", "Python", "C", "C++"];
 let frameworks = ["QT", "Vue.js", "axios", "tailwindcss"];
-let databases = ["Microsoft Sql Server", "MySql", "Oracle"];
+let databases = ["Microsoft Sql Server", "MySql"];
 
 abdullah.skills.push(...languages, ...frameworks, ...databases);
 ```
