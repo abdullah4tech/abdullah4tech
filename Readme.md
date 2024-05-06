@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdullah Mustapha</h1>
-<h4 align="center">I am currently a student at Manipal University Jaipur, India, specializing in Software Engineering. With a fervent dedication to technology, I am deeply drawn to both frontend and backend development. I am eager to expand my skills and knowledge under the mentorship of seasoned developers. Your guidance would be immensely valuable to me as I strive to excel in this dynamic field. Additionally, I actively pursue freelance opportunities to further hone my abilities and contribute meaningfully to projects.</h3>  
+<h4 align="center">Frontend Developer</h3>  
 
 ## 🙋‍♂️ About Me
 <img align="right" alt="coding" width="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🌱 I’m currently learning **Web development and there technologies**, and diving deep into **Data Structures and Algorithms**.
+- 🌱 I’m currently learning web development and its technologies, and also studying data structures and algorithms to improve readability and maintain consistency in my code..
 
 - 👯 I’m looking to collaborate on an **Open Source Project...**
 
@@ -14,7 +14,7 @@
 
 ### Languages & Tools. 🚧 
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,c,cpp,js,vuejs,python,anaconda,nodejs,md,git,github,photoshop,illustrator,linux,vscode,mysql,bash,postman,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,c,cpp,js,vuejs,python,anaconda,nodejs,md,git,github,photoshop,illustrator,linux,vscode,mysql,bash,postman,stackoverflow&perline=13)](#)
 
 <h3>📊 My Github Stats<h3><hr>
 
@@ -40,7 +40,7 @@
 <a href = "https://www.linkedin.com/in/abdullah-mustapha-ab529229a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/abdullah4tech_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/_am4tech/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://wa.me/message/JU7M7LRRGDFGM1"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/></a>
+<a href = "https://wa.me/23231353914"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/></a>
 
 </p>
 
