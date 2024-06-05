@@ -27,12 +27,12 @@ jobs:
           languages=$(jq -r '.data.languages[] | "- \(.name): \(.text)"' wakatime_stats.json)
           # Update the README.md
           sed -i '/<!--START_SECTION:waka-->/,/<!--END_SECTION:waka-->/c\
-<!--START_SECTION:waka-->\n\
-**WakaTime Stats:**\n\n\
-**Total Time:** $total_time\n\n\
-**Languages:**\n\
-$languages\n\
-<!--END_SECTION:waka-->' README.md
+          <!--START_SECTION:waka-->\n\
+          **WakaTime Stats:**\n\n\
+          **Total Time:** $total_time\n\n\
+          **Languages:**\n\
+          $languages\n\
+          <!--END_SECTION:waka-->' $GITHUB_WORKSPACE/README.md
 
       - name: Commit Changes
         run: |
