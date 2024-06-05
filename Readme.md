@@ -15,6 +15,11 @@
 - Check out my [Portfolio](https://portfolio-three-lac-35.vercel.app/)
 - Never give up on coding!!!
 
+## 📊 WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Languages & Tools. 🚧 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,c,cpp,js,vuejs,python,anaconda,nodejs,md,git,github,photoshop,illustrator,linux,vscode,mysql,bash,postman,stackoverflow&perline=13)](#)
