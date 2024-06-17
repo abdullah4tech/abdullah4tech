@@ -2,6 +2,7 @@ name: Update README with WakaTime Stats
 
 on:
   schedule:
+    # Runs at 12:00 UTC every day
     - cron: "0 12 * * *"
   push:
     branches:
@@ -24,8 +25,8 @@ jobs:
 
       - name: Update README
         run: |
-          wakatime_stats=$(jq -r '.data.languages | map("\(.name): \(.text)") | join("\n")' wakatime.json)
-          echo "## 📊 WakaTime Stats\n\n$wakatime_stats" > WAKATIME.md
+          wakatime_stats=$(jq -r '.data.languages | map("| \(.name) | \(.text) |") | join("\n")' wakatime.json)
+          echo "## 📊 WakaTime Stats\n\n| Language | Time |\n|----------|------|\n$wakatime_stats" > WAKATIME.md
           awk 'NR==FNR{a[++d]=$0;next}/<!--START_SECTION:waka-->/{print;print "<!--WAKATIME_STATS_START-->";for(i=1;i<=d;i++)print a[i];print "<!--WAKATIME_STATS_END-->";next}1' WAKATIME.md README.md > README_tmp.md
           mv README_tmp.md README.md
 
