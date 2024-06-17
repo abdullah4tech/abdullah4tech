@@ -20,19 +20,7 @@
 
 ```markdown
 <!--START_SECTION:waka-->
-<!--WAKATIME_STATS_START-->
-## 📊 WakaTime Stats\n\nVue.js: 4 hrs 37 mins
-JavaScript: 52 mins
-HTML: 18 mins
-CSS: 5 mins
-JSON: 4 mins
-Bash: 2 mins
-Other: 0 secs
-Docker: 0 secs
-PowerShell: 0 secs
-Markdown: 0 secs
-<!--WAKATIME_STATS_END-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -40,7 +28,7 @@ Markdown: 0 secs
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 385 Contributions in the Year 2024
+> 🏆 384 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -102,7 +90,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/abdullah4tech/abdullah4tech/main/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2024 04:21:04 UTC
+ Last Updated on 17/06/2024 04:22:22 UTC
 <!--END_SECTION:waka-->
 ```
 
