@@ -2,7 +2,7 @@ name: Update README with WakaTime Stats
 
 on:
   schedule:
-    - cron: "0 12 * * *"
+    - cron: "0 12 * * *"  # Runs at 12:00 UTC every day
   push:
     branches:
       - main
@@ -13,8 +13,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-        with:
-          fetch-depth: 0  # Fetch all history for all branches and tags
 
       - name: Install jq
         run: sudo apt-get install -y jq
@@ -24,10 +22,14 @@ jobs:
         run: |
           curl -s "https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key=${{ secrets.WAKATIME_API_KEY }}" > wakatime.json
 
+      - name: Generate WakaTime Stats
+        run: |
+          total_time=$(jq -r '.data.total_seconds' wakatime.json)
+          languages=$(jq -r '.data.languages | sort_by(.percent) | reverse | limit(5; .[]) | "\(.name): \(.percent)% (\(.text))"' wakatime.json)
+          echo "## 📊 WakaTime Stats\n\n### Top 5 Languages:\n\n$languages\n\n### Total Coding Activity: $(($total_time / 3600)) hours" > WAKATIME.md
+
       - name: Update README
         run: |
-          wakatime_stats=$(jq -r '.data.languages | map("| \(.name) | \(.text) |") | join("\n")' wakatime.json)
-          echo "## 📊 WakaTime Stats\n\n| Language | Time |\n|----------|------|\n$wakatime_stats" > WAKATIME.md
           awk 'NR==FNR{a[++d]=$0;next}/<!--START_SECTION:waka-->/{print;print "<!--WAKATIME_STATS_START-->";for(i=1;i<=d;i++)print a[i];print "<!--WAKATIME_STATS_END-->";next}1' WAKATIME.md README.md > README_tmp.md
           mv README_tmp.md README.md
 
