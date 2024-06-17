@@ -36,6 +36,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git add README.md
-          git commit -m 'Update README with WakaTime stats'
+          git add README.md WAKATIME.md wakatime.json
+          git commit -m 'Update README with WakaTime stats' || echo "No changes to commit"
           git push
