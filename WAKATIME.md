@@ -1,4 +1,4 @@
-## My WakaTime Stats\n\nVue.js: 4 hrs 37 mins
+## 📊 WakaTime Stats\n\nVue.js: 4 hrs 37 mins
 JavaScript: 52 mins
 HTML: 18 mins
 CSS: 5 mins
