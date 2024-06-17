@@ -13,8 +13,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-        with:
-          fetch-depth: 0  # Fetch all history for all branches and tags
 
       - name: Install jq
         run: sudo apt-get install -y jq
@@ -26,8 +24,8 @@ jobs:
 
       - name: Update README
         run: |
-          wakatime_stats=$(jq -r '.data.languages | map("| \(.name) | \(.text) |") | join("\n")' wakatime.json)
-          echo "## 📊 WakaTime Stats\n\n| Language | Time |\n|----------|------|\n$wakatime_stats" > WAKATIME.md
+          wakatime_stats=$(jq -r '.data.languages | map("\(.name): \(.text)") | join("\n")' wakatime.json)
+          echo "## 📊 WakaTime Stats\n\n$wakatime_stats" > WAKATIME.md
           awk 'NR==FNR{a[++d]=$0;next}/<!--START_SECTION:waka-->/{print;print "<!--WAKATIME_STATS_START-->";for(i=1;i<=d;i++)print a[i];print "<!--WAKATIME_STATS_END-->";next}1' WAKATIME.md README.md > README_tmp.md
           mv README_tmp.md README.md
 
@@ -38,15 +36,9 @@ jobs:
           git add README.md WAKATIME.md wakatime.json
           git commit -m 'Update README with WakaTime stats' || echo "No changes to commit"
 
-      - name: Pull latest changes
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-        run: |
-          git remote set-url origin https://${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git
-          git pull origin main --rebase
-
       - name: Push changes
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
+          git remote set-url origin https://${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git
           git push origin main
