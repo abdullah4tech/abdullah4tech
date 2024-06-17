@@ -45,7 +45,7 @@ jobs:
           git diff --quiet && git diff --staged --quiet || git commit -m 'Update README with WakaTime stats'
 
       - name: Pull latest changes
-        run: git pull origin main
+        run: git pull origin main --rebase
 
       - name: Push changes
         env:
