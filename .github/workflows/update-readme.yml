@@ -1,4 +1,4 @@
-name: Profile Readme Development Stats
+name: Update README with WakaTime Stats
 
 on:
   schedule:
@@ -13,8 +13,14 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+
+      - name: Update Readme with matrices
+        uses: anmol098/waka-readme-stats@master
         with:
-          fetch-depth: 0  # Fetch all history for all branches and tags
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
 
       - name: Install jq
         run: sudo apt-get install -y jq
@@ -26,180 +32,21 @@ jobs:
 
       - name: Update README
         run: |
-          wakatime_stats=$(jq -r '.data.languages | map("| \(.name) | \(.text) |") | join("\n")' wakatime.json)
-          echo "## 📊 WakaTime Stats\n\n| Language | Time |\n|----------|------|\n$wakatime_stats" > WAKATIME.md
-          # Additional logic to update README with various metrics as per inputs
+          wakatime_stats=$(jq -r '.data.languages | map("\(.name): \(.text)") | join("\n")' wakatime.json)
+          echo "## 📊 WakaTime Stats\n\n$wakatime_stats" > WAKATIME.md
+          awk 'NR==FNR{a[++d]=$0;next}/<!--START_SECTION:waka-->/{print;print "<!--WAKATIME_STATS_START-->";for(i=1;i<=d;i++)print a[i];print "<!--WAKATIME_STATS_END-->";next}1' WAKATIME.md README.md > README_tmp.md
+          mv README_tmp.md README.md
 
       - name: Commit changes
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add README.md WAKATIME.md wakatime.json
-          git commit -m '${{ inputs.COMMIT_MESSAGE }}' || echo "No changes to commit"
-
-      - name: Pull latest changes
-        if: ${{ inputs.PULL_BRANCH_NAME != '' }}
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-        run: |
-          git remote set-url origin https://${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git
-          git pull origin ${{ inputs.PULL_BRANCH_NAME }} --rebase
+          git commit -m 'Update README with WakaTime stats' || echo "No changes to commit"
 
       - name: Push changes
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          git push origin ${{ inputs.PUSH_BRANCH_NAME }}
-
-inputs:
-  GH_TOKEN:
-    description: 'GitHub access token with Repo scope'
-    required: true
-    default: ${{ GH_PAT }}
-
-  WAKATIME_API_KEY:
-    description: 'Your Wakatime API Key'
-    required: true
-
-  SECTION_NAME:
-    description: 'Name used in readme to scope the updated section'
-    required: false
-    default: "waka"
-
-  PULL_BRANCH_NAME:
-    description: "The branch to get the readme from"
-    required: false
-    default: ""
-
-  PUSH_BRANCH_NAME:
-    description: "The branch to update the readme in"
-    required: false
-    default: ""
-
-  SHOW_OS:
-    description: 'Show the list of OS Worked on In dev metrics'
-    required: false
-    default: "True"
-
-  SHOW_PROJECTS:
-    description: 'Show the list of projects worked on in dev metrics'
-    required: false
-    default: "True"
-
-  SHOW_EDITORS:
-    description: 'Show the Editors used in dev metrics'
-    required: false
-    default: "True"
-
-  SHOW_TIMEZONE:
-    description: 'Show the time zone in the dev metrics'
-    required: false
-    default: "True"
-
-  SHOW_COMMIT:
-    description: "Shows the number of commit graph in the dev metrics"
-    required: false
-    default: "True"
-
-  SHOW_LANGUAGE:
-    description: "Show the Coding language used in dev metrics"
-    required: false
-    default: "True"
-
-  SHOW_LINES_OF_CODE:
-    description: "Show the Total Lines of code written Badge till date"
-    required: false
-    default: "False"
-
-  SHOW_LANGUAGE_PER_REPO:
-    description: "Show language or framework used across different repository"
-    required: false
-    default: "True"
-
-  SHOW_LOC_CHART:
-    description: ""
-    required: false
-    default: "True"
-
-  SHOW_DAYS_OF_WEEK:
-    description: "show day of week you are most productive"
-    required: false
-    default: "True"
-
-  SHOW_PROFILE_VIEWS:
-    description: "Shows the current profile views"
-    required: false
-    default: "True"
-
-  SHOW_SHORT_INFO:
-    description: "Shows the short facts"
-    required: false
-    default: "True"
-
-  SHOW_UPDATED_DATE:
-    description: "Show updated date"
-    required: false
-    default: "True"
-
-  SHOW_TOTAL_CODE_TIME:
-    description: "Show Total Time you have coded"
-    required: false
-    default: "True"
-
-  COMMIT_BY_ME:
-    description: "Git commit with your own name and email"
-    required: false
-    default: "False"
-  
-  COMMIT_MESSAGE:
-    description: "Git commit message"
-    required: false
-    default: "Updated with Dev Metrics"
-
-  COMMIT_USERNAME:
-    description: "Git commit custom username"
-    required: false
-    default: ""
-  
-  COMMIT_EMAIL:
-    description: "Git commit custom email"
-    required: false
-    default: ""
-
-  COMMIT_SINGLE:
-    description: "Erase commit history on each commit"
-    required: false
-    default: "False"
-
-  LOCALE:
-    description: "Show stats in your own language"
-    required: false
-    default: "en"
-
-  UPDATED_DATE_FORMAT:
-    description: "Updated date format"
-    required: false
-    default: "%d/%m/%Y %H:%M:%S"
-
-  IGNORED_REPOS:
-    description: "Repos you don't want to be counted"
-    required: false
-    default: ""
-
-  SYMBOL_VERSION:
-    description: "Version of the symbol block and empty of the progress bar"
-    required: false
-    default: "1"
-
-  DEBUG_LOGGING:
-    description: "Whether to enable action debug logging"
-    required: false
-    default: ${{ runner.debug }}
-
-runs:
-  using: 'docker'
-  image: 'docker://wakareadmestats/waka-readme-stats:master'
-
-branding:
-  icon: 'activity'
-  color: 'orange'
+          git remote set-url origin https://${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git
+          git push origin main
