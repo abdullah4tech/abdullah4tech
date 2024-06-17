@@ -1,0 +1,41 @@
+name: Update README with WakaTime Stats
+
+on:
+  schedule:
+    # Runs at 12:00 UTC every day
+    - cron: "0 12 * * *"
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install jq
+        run: sudo apt-get install -y jq
+
+      - name: Fetch WakaTime stats
+        id: wakatime
+        run: |
+          curl -s "https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key=${{ secrets.WAKATIME_API_KEY }}" > wakatime.json
+
+      - name: Update README
+        run: |
+          wakatime_stats=$(jq -r '.data.languages | map("\(.name): \(.text)") | join("\n")' wakatime.json)
+          echo "## My WakaTime Stats\n\n$wakatime_stats" > WAKATIME.md
+          sed -i '/## My WakaTime Stats/ {
+            r WAKATIME.md
+            d
+          }' README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add README.md
+          git commit -m 'Update README with WakaTime stats'
+          git push
