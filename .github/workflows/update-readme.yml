@@ -2,7 +2,6 @@ name: Update README with WakaTime Stats
 
 on:
   schedule:
-    # Runs at 12:00 UTC every day
     - cron: "0 12 * * *"
   push:
     branches:
@@ -14,6 +13,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0  # Fetch all history for all branches and tags
 
       - name: Install jq
         run: sudo apt-get install -y jq
@@ -37,9 +38,15 @@ jobs:
           git add README.md WAKATIME.md wakatime.json
           git commit -m 'Update README with WakaTime stats' || echo "No changes to commit"
 
-      - name: Push changes
+      - name: Pull latest changes
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git remote set-url origin https://${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git
+          git pull origin main --rebase
+
+      - name: Push changes
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
           git push origin main
