@@ -19,7 +19,10 @@
 ## 📊 WakaTime Stats
 
 <!--START_SECTION:waka-->
+<!--WAKATIME_STATS_START-->
+<!--WAKATIME_STATS_END-->
 <!--END_SECTION:waka-->
+
 
 ### Languages & Tools. 🚧
 
