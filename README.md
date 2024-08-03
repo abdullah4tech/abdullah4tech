@@ -18,7 +18,7 @@
 
 ### Languages & Tools. 🚧
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,c,cpp,js,vuejs,python,anaconda,nodejs,md,git,github,photoshop,illustrator,linux,vscode,mysql,bash,postman,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,vuejs,nodejs,git,github,linux,mysql,postman,stackoverflow&perline=13)](#)
 
 <h3>📊 My Github Stats<h3><hr>
 
@@ -36,28 +36,4 @@
 
 <hr>
 
-### Connect with me via
-
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/abdullah-mustapha-ab529229a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/abdullah4tech_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/_am4tech/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://wa.me/23231353914"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/></a>
-
-</p>
-
-<hr>
-
-```javascript
-import abdullah from "awesome";
-
-let languages = ["HTML", "CSS", "JavaScript", "Python", "C", "C++"];
-let frameworks = ["QT", "Vue.js", "axios", "tailwindcss"];
-let databases = ["Microsoft Sql Server", "MySql"];
-
-abdullah.skills.push(...languages, ...frameworks, ...databases);
-```
-
-<hr>
 👋Ó dàbọ̀
