@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Mustapha</h1>
 <h4 align="center">Frontend Developer</h3>
 
-## 🙋‍♂️ About Me
+##
 
 [![committers.top badge](https://user-badge.committers.top/sierra_leone/abdullah4tech.svg)](https://user-badge.committers.top/sierra_leone/abdullah4tech)
 [![trophy](https://github-profile-trophy.vercel.app/?username=abdullah4tech&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
