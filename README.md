@@ -4,17 +4,18 @@
 ##
 
 [![committers.top badge](https://user-badge.committers.top/sierra_leone/abdullah4tech.svg)](https://user-badge.committers.top/sierra_leone/abdullah4tech)
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdullah4tech&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<img align="right" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 🌱 I’m currently learning web development and its technologies, and also studying data structures and algorithms to improve readability and maintain consistency in my code..
+- 🌱 I’m currently advancing my skills in web development, exploring various technologies, and studying data structures and algorithms to enhance code readability and consistency.
 
-- 👯 I’m looking to collaborate on an **Open Source Project...**
+- 👯 I’m open to collaborating on **open-source projects**.
 
-- 📫 How to reach me: **<abdullahmu4life@gmail.com>**
-- ⚡ Fun fact: **I watch anime, play video games, and I'm passionate about becoming a programmer.**
-- Check out my [Portfolio](https://portfolio-three-lac-35.vercel.app/)
-- Never give up on coding!!!
+- 📫 Feel free to reach me at **abdullahmu4life@gmail.com**.
+
+- ⚡ Fun fact: **I’m passionate about diving deep into programming, exploring new technologies, and staying updated on the latest tech trends.**
+
+- Explore my [Portfolio](https://portfolio-three-lac-35.vercel.app/).
+
+- **Never give up on your dream!**
 
 ### Languages & Tools. 🚧
 
