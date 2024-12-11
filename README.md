@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: **I’m passionate about diving deep into programming, exploring new technologies, and staying updated on the latest tech trends.**
 
-- Explore my [Portfolio](https://portfolio-three-lac-35.vercel.app/).
+- Explore my [Portfolio](https://abdullahmustapha.vercel.app/).
 
 - **Never give up on your dream!**
 
