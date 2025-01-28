@@ -5,8 +5,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/sierra_leone/abdullah4tech.svg)](https://user-badge.committers.top/sierra_leone/abdullah4tech)
 
-- 🌱 I’m currently advancing my skills in web development, exploring various technologies, and studying data structures and algorithms to enhance code readability and consistency.
-
+- 🌱 I’m currently working on [backend-starter-cli](https://github.com/abdullah4tech/backend-starter-cli) and a Resource Management System
 - 👯 I’m open to collaborating on **open-source projects**.
 
 - 📫 Feel free to reach me at **abdullahmu4life@gmail.com**.
