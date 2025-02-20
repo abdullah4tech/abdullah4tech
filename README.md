@@ -18,7 +18,7 @@
 
 ### Languages & Tools. 🚧
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,vuejs,fastapi,python,nodejs,git,github,linux,mysql,postman,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,nuxtjs,typescript,vuejs,fastapi,python,nodejs,git,github,linux,mysql,postman,stackoverflow&perline=13)](#)
 
 <h3>📊 My Github Stats<h3><hr>
 
