@@ -1,39 +1,46 @@
-<h1 align="center">Hi 👋, I'm Abdullah Mustapha</h1>
-<h4 align="center">Frontend Developer</h3>
-
-##
-
-[![committers.top badge](https://user-badge.committers.top/sierra_leone/abdullah4tech.svg)](https://user-badge.committers.top/sierra_leone/abdullah4tech)
-
-- 🌱 I’m currently working on [backend-starter-cli](https://github.com/abdullah4tech/backend-starter-cli) and a Resource Management System
-- 👯 I’m open to collaborating on **open-source projects**.
-
-- 📫 Feel free to reach me at **abdullahmu4life@gmail.com**.
-
-- ⚡ Fun fact: **I’m passionate about diving deep into programming, exploring new technologies, and staying updated on the latest tech trends.**
-
-- Explore my [Portfolio](https://abdullahmustapha.vercel.app/).
-
-- **Never give up on your dream!**
-
-### Languages & Tools. 🚧
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,nuxtjs,typescript,vuejs,fastapi,python,nodejs,git,github,linux,mysql,postman,stackoverflow&perline=13)](#)
-
-<h3>📊 My Github Stats<h3><hr>
+<h1 align="center">I'm <strong>Abdullah Mustapha</strong> 👋</h1>
+<p align="center">Software Engineer • Frontend Engineer • OSS Advocate</p>
 
 <p align="center">
-  <a href="https://github.com/abdullah4tech">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah4tech&theme=radical&border=7F3FBF&background=0D1117" alt="Abdullah's GitHub streak"/>
-  </a>
+  <a href="mailto:abdullahmu4life@gmail.com">📫 Email</a> • 
+  <a href="https://abdullahmustapha.vercel.app">🌐 Portfolio</a> • 
+  <a href="https://github.com/abdullah4tech">💻 GitHub</a>
 </p>
 
-<a>
-    <a href="https://github.com/abdullah4tech"><img alt="Abdullah Mustapha's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abdullah4tech&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/abdullah4tech"><img alt="Abdullah Mustapha's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abdullah4tech&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+---
 
-<hr>
+### 🧑‍💻 About Me
 
-👋Ó dàbọ̀
+’m a builder at heart — creating sleek user interfaces, secure backends, and helpful libraries that improve developer workflows. I thrive at the intersection of creativity and functionality.
+
+- 🔨 Building [zenon-router](https://github.com/n8bird-oss/zenon-router) and a **Secure ENV Sharing Plaform**
+- 🧠 Passionate about developer experience & open-source
+- 🤝 Always open to meaningful collaborations
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,vue,nuxtjs,python,nodejs,fastapi,linux,git,github,mysql" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah4tech&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abdullah4tech&show_icons=true&count_private=true&hide_border=true&theme=vue-dark" width="49%"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abdullah4tech&layout=compact&hide_border=true&theme=vue-dark" width="49%"/>
+</p>
+
+---
+
+> Build what matters. Share what lasts.
+<p align="center">👋 Ó dàbọ̀</p>
+
+---
