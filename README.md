@@ -9,6 +9,16 @@
 
 ---
 
+<div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%;">
+  <a href="https://wakatime.com/@97a314e8-1cbc-4a4f-b5cd-1e6f0e632957">
+    <img src="https://wakatime.com/badge/user/97a314e8-1cbc-4a4f-b5cd-1e6f0e632957.svg" alt="Total time coded since May 2 2024" />
+  </a>
+  <a href="https://user-badge.committers.top/sierra_leone/abdullah4tech">
+    <img src="https://user-badge.committers.top/sierra_leone/abdullah4tech.svg" alt="committers.top badge" />
+  </a>
+</div>
+
+
 ### 🧑‍💻 About Me
 
 ’m a builder at heart — creating sleek user interfaces, secure backends, and helpful libraries that improve developer workflows. I thrive at the intersection of creativity and functionality.
