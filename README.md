@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:abdullahmu4life@gmail.com">📫 Email</a> • 
-  <a href="https://abdullahmustapha.vercel.app">🌐 Portfolio</a> • 
+  <a href="https://abdullahmustapha.xyz">🌐 Portfolio</a> • 
   <a href="https://github.com/abdullah4tech">💻 GitHub</a>
 </p>
 
