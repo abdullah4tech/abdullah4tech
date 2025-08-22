@@ -23,7 +23,7 @@
 
 ’m a builder at heart — creating sleek user interfaces, secure backends, and helpful libraries that improve developer workflows. I thrive at the intersection of creativity and functionality.
 
-- 🔨 Building [zenon-router](https://github.com/n8bird-oss/zenon-router) and a **Secure ENV Sharing Plaform**
+- 🔨 Building [zenon-router](https://github.com/n8bird-oss/zenon-router)
 - 🧠 Passionate about developer experience & open-source
 - 🤝 Always open to meaningful collaborations
 
