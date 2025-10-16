@@ -21,10 +21,10 @@
 
 ### 🧑‍💻 About Me
 
-’m a builder at heart — creating sleek user interfaces, secure backends, and helpful libraries that improve developer workflows. I thrive at the intersection of creativity and functionality.
+I focus on building robust, maintainable, and scalable infrastructure that supports high-performance applications and long-term growth. I enjoy solving complex problems and writing code that lasts.
 
-- 🔨 Building [zenon-router](https://github.com/n8bird-oss/zenon-router)
-- 🧠 Passionate about developer experience & open-source
+- 🔨 Building [Doks AI](https://github.com/n8bird-oss/doksAI).
+- 🧠 Passionate about developer experience(DX), open-source, scalability.
 - 🤝 Always open to meaningful collaborations
 
 ---
