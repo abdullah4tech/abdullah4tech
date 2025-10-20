@@ -23,7 +23,7 @@
 
 I focus on building robust, maintainable, and scalable infrastructure that supports high-performance applications and long-term growth. I enjoy solving complex problems and writing code that lasts.
 
-- 🔨 Building [Doks AI](https://github.com/n8bird-oss/doksAI), [Zenon router](https://github.com/n8bird-oss/zenon-router).
+- 🔨 Building [Doks AI](https://github.com/abdullah4tech/doksAI), [Zenon router](https://github.com/n8bird-oss/zenon-router).
 - 🧠 Passionate about developer experience(DX), open-source, scalability.
 - 🤝 Always open to meaningful collaborations
 
