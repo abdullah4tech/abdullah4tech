@@ -1,56 +1,28 @@
-<h1 align="center">I'm <strong>Abdullah Mustapha</strong> 👋</h1>
-<p align="center">Software Engineer • Frontend Engineer • OSS Advocate</p>
+Yo! I'm Abdullah
+---
 
-<p align="center">
-  <a href="mailto:abdullahmu4life@gmail.com">📫 Email</a> • 
-  <a href="https://abdullahmustapha.xyz">🌐 Portfolio</a> • 
-  <a href="https://github.com/abdullah4tech">💻 GitHub</a>
-</p>
+I’m passionate about building **robust, scalable, and maintainable systems** that solve real-world problems. My work focuses on building infrastructure and applications that **perform at scale and endure over time**.
+
+I believe great software is more than code — it’s a balance of **clarity, performance, and purpose**. I enjoy turning complex challenges into elegant, sustainable solutions.
+
+Currently, I’m exploring the intersection of **developer experience, open-source innovation,** and **AI-driven development workflows**.
 
 ---
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; width: 100%;">
-  <a href="https://wakatime.com/@97a314e8-1cbc-4a4f-b5cd-1e6f0e632957">
-    <img src="https://wakatime.com/badge/user/97a314e8-1cbc-4a4f-b5cd-1e6f0e632957.svg" alt="Total time coded since May 2 2024" />
-  </a>
-  <a href="https://user-badge.committers.top/sierra_leone/abdullah4tech">
-    <img src="https://user-badge.committers.top/sierra_leone/abdullah4tech.svg" alt="committers.top badge" />
-  </a>
-</div>
+### 🔭 What I’m Working On
 
-
-### 🧑‍💻 About Me
-
-I focus on building robust, maintainable, and scalable infrastructure that supports high-performance applications and long-term growth. I enjoy solving complex problems and writing code that lasts.
-
-- 🔨 Building [Doks AI](https://github.com/abdullah4tech/doksAI), [Zenon router](https://github.com/n8bird-oss/zenon-router).
-- 🧠 Passionate about developer experience(DX), open-source, scalability.
-- 🤝 Always open to meaningful collaborations
+* ⚙️ Building [**Doks AI**](https://github.com/abdullah4tech/doksAI) — an intelligent documentation engine for faster learning and onboarding.
+* 🧭 Developing [**Zenon Router**](https://github.com/n8bird-oss/zenon-router) — a lightweight and modular routing solution.
+* 🌍 Experimenting with scalable backend architectures and micro-frontend systems.
 
 ---
 
-### 🛠 Tech Stack
+### 📫 Let’s Connect
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,vue,nuxtjs,python,nodejs,fastapi,linux,git,github,mysql" />
-</p>
+You can find me building, writing, or collaborating across communities:
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah4tech&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=abdullah4tech&show_icons=true&count_private=true&hide_border=true&theme=vue-dark" width="49%"/>
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abdullah4tech&layout=compact&hide_border=true&theme=vue-dark" width="49%"/>
-</p>
-
----
-
-> Build what matters. Share what lasts.
-<p align="center">👋 Ó dàbọ̀</p>
+* [**abdullahmustapha.xyz**](https://abdullahmustapha.xyz) — my portfolio & projects
+* [**GitHub**](https://github.com/abdullah4tech) — open-source work
+* [**Email**](mailto:abdullahmu4life@gmail.com) — reach out directly
 
 ---
